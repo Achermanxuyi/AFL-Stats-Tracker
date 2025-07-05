@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457417881010",
+    "project_id": "afl-dataset",
+    "storage_bucket": "afl-dataset.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457417881010:android:02135e1cee29144a1a60ab",
+        "android_client_info": {
+          "package_name": "com.example.afl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtqbjfUHayWLyO--4WWCOITLlCULwmcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457417881010:android:a629fbbba8aba4a41a60ab",
+        "android_client_info": {
+          "package_name": "com.example.afl_stats_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtqbjfUHayWLyO--4WWCOITLlCULwmcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
